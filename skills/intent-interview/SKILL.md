@@ -1,6 +1,6 @@
 ---
 name: intent-interview
-description: Transform vague ideas into implementation-ready specifications through structured interviewing. Use when user describes a new feature/product idea, has a problem to solve, or needs to document requirements. Two-phase process: Phase A produces decisions.md, Phase B composes INTENT.md under budget constraints.
+description: Transform vague ideas into implementation-ready specifications through structured interviewing. Use when user describes a new feature/product idea, has a problem to solve, or needs to document requirements. Two-phase process - Phase A produces decisions.md, Phase B composes INTENT.md under budget constraints.
 ---
 
 # Intent Interview
